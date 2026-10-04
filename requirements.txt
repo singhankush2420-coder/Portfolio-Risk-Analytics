@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+matplotlib
+scipy
+statsmodels
+psycopg2-binary
+SQLAlchemy
+psycopg2-binary
